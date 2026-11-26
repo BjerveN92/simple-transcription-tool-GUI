@@ -8,13 +8,13 @@ rätta, sammanfatta och plocka ut åtgärder. Gjord främst för digitala möten
 
 ## Funktioner
 
-- [ ] Ladda upp ljud (drag & drop / klick): mp3, wav, m4a, ogg, opus, flac, webm
-- [ ] Spela in mikrofon + systemljud (WASAPI-loopback), med pausa/återuppta och timer
-- [ ] Ljudvisualizer under inspelning
-- [ ] Transkribering med laddningsanimation, timer och möjlighet att avbryta
-- [ ] Resultat i tre delar: **End result**, **Punkter**, **Åtgärder**
-- [ ] Export till PDF, Word och Markdown
-- [ ] Ladda ner inspelat ljud (Opus)
+-  Ladda upp ljud (drag & drop / klick): mp3, wav, m4a, ogg, opus, flac, webm
+-  Spela in mikrofon + systemljud (WASAPI-loopback), med pausa/återuppta och timer
+-  Ljudvisualizer under inspelning
+-  Transkribering med laddningsanimation, timer och möjlighet att avbryta
+-  Resultat i tre delar: **End result**, **Punkter**, **Åtgärder**
+-  Export till PDF, Word och Markdown
+-  Ladda ner inspelat ljud (Opus)
 
 ## Teknikstack
 
